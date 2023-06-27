@@ -1,0 +1,76 @@
+
+# EXTM3U
+ 
+#EXTINF: -1,AXN
+
+http://190.92.7.19:8000/play/a01e/index.m3u8
+
+#EXTINF: -1,AnimalPlanet
+
+http://190.92.7.19:8000/play/a02h/index.m3u8
+
+#EXTINF: -1,cartoon
+
+http://190.92.7.19:8000/play/a00z/index.m3u8
+
+#EXTINF: -1,cartoonito
+
+http://190.92.7.19:8000/play/a011/index.m3u8
+
+#EXTINF: -1,cinelatino
+
+http://190.92.7.19:8000/play/a039/index.m3u8
+
+#EXTINF: -1,Cine canal
+
+http://190.92.7.19:8000/play/a03c/index.m3u8
+
+#EXTINF: -1,CineMax
+
+http://190.92.7.19:8000/play/a03a/index.m3u8
+
+#EXTINF: -1,H&H
+
+http://190.92.7.19:8000/play/a00m/index.m3u8
+
+#EXTINF: -1,Discovery Channel
+
+http://190.92.7.19:8000/play/a02g/index.m3u8
+
+#EXTINF: -1,Discoveri ki
+
+http://190.92.7.19:8000/play/a02z/index.m3u8
+
+#EXTINF: -1,Discovery scien
+
+http://190.92.7.19:8000/play/a007/index.m3u8
+
+#EXTINF: -1,Discovery Turbo
+
+http://190.92.7.19:8000/play/a02y/index.m3u8
+
+#EXTINF: -1,Disney Jubior
+
+http://190.92.7.19:8000/play/a012/index.m3u8
+
+#EXTINF: -1,Fil&arte
+
+http://190.92.7.19:8000/play/a00l/index.m3u8
+
+#EXTINF: -1,Golden
+
+http://190.92.7.19:8000/play/a021/index.m3u8
+
+#EXTINF: -1,Golden HD
+
+http://190.92.7.19:8000/play/a00g/index.m3u8
+
+#EXTINF: -1,History2
+
+http://190.92.7.19:8000/play/a01q/index.m3u8
+
+#EXTINF: -1,History HD
+
+http://190.92.7.19:8000/play/a00v/index.m3u8
+
+#EXTINF: -1,Space HD
